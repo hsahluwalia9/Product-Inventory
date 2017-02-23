@@ -1,0 +1,5 @@
+/Users/harsimar/Projects/Product/Product/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/harsimar/Projects/Product/Product/bin/Debug/Product.exe.mdb
+/Users/harsimar/Projects/Product/Product/bin/Debug/Product.exe
+/Users/harsimar/Projects/Product/Product/obj/x86/Debug/Product.exe
+/Users/harsimar/Projects/Product/Product/obj/x86/Debug/Product.exe.mdb
